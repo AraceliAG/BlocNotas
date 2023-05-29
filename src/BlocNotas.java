@@ -9,7 +9,7 @@ public class BlocNotas {
 
     public static void main(String[] args) {
         Color amarillo;
-        amarillo= new Color (255, 255, 128); //cambio de color
+        amarillo= new Color (255, 255, 120); //cambio de color
 
         ImageIcon copiarImg = new ImageIcon("assents/copiar.png");
         ImageIcon cortarImg = new ImageIcon("assents/cortar.png");
